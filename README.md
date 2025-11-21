@@ -37,7 +37,3 @@ This project includes the full hardware schematic, power stage, clock circuitry,
 ### 🔹 **Sensor Interface**
 - DHT22 temperature & humidity sensor (1-wire GPIO)
 
----
-
-## 📁 Repository Structure
-
